@@ -5,7 +5,7 @@ import kelapaBakarBiasa from '../assets/Images/Kelapabakarbiasa.jpg';
 import kelapaTidakDibakar from '../assets/Images/Kelapabiasa.jpg';
 
 const Produk = () => {
-  const whatsappNumber = "085777673110";
+  const whatsappNumber = "+6285777673110";
 
   return (
     <section id="produk" className="py-5 text-center container">
